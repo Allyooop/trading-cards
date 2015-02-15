@@ -14,11 +14,11 @@ $gray:                   #666;
 $gray-light:             #bbb;
 $gray-lighter:           lighten($gray-base, 93.5%); // #eee
 
-$brand-primary:         #2196F3;
-$brand-success:         #4CAF50;
-$brand-info:            #9C27B0;
-$brand-warning:         #ff9800;
-$brand-danger:          #e51c23;
+$brand-primary:         #FFC107;
+$brand-success:         saturate($brand-primary, 20%);
+$brand-info:            desaturate($brand-primary, 20%);
+$brand-warning:         lighten($brand-primary, 15%);
+$brand-danger:          #1A98CC;
 
 
 //== Scaffolding
@@ -26,7 +26,7 @@ $brand-danger:          #e51c23;
 //## Settings for some of the most global styles.
 
 //** Background color for `<body>`.
-$body-bg:               #fff;
+$body-bg:               #F5F5F5;
 //** Global text color on `<body>`.
 $text-color:            $gray;
 
@@ -48,16 +48,16 @@ $font-family-serif:       Georgia, "Times New Roman", Times, serif;
 $font-family-monospace:   Menlo, Monaco, Consolas, "Courier New", monospace;
 $font-family-base:        $font-family-sans-serif;
 
-$font-size-base:          13px;
+$font-size-base:          15px;
 $font-size-large:         ceil(($font-size-base * 1.25)); // ~18px
 $font-size-small:         ceil(($font-size-base * 0.85)); // ~12px
 
-$font-size-h1:            56px;
-$font-size-h2:            45px;
-$font-size-h3:            34px;
-$font-size-h4:            24px;
+$font-size-h1:            45px;
+$font-size-h2:            34px;
+$font-size-h3:            28px;
+$font-size-h4:            22px;
 $font-size-h5:            20px;
-$font-size-h6:            14px;
+$font-size-h6:            16px;
 
 //** Unit-less `line-height` for use in components like buttons.
 $line-height-base:        1.846; // 20/14
