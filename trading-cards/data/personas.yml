@@ -1,15 +1,15 @@
 persona:
-  - title: "Internal Project Name"
+  - title: "Analytical Business Manager Example"
     slug: example-persona
-    img: "http://placehold.it/320x320"
+    img: "http://placehold.it/350x350"
     name: "Ms E Xample"
     age: "25"
     sex: "Female"
-    job-title: "Consultant Persona"
+    job-title: "Example Consultant Persona"
     job-desc: "Provides analytical, business intelligence and technical support to the Directorate Business Team, assisting in the provision of information and the maintenance of databases and standard reports, including follow up of any marketing opportunities in conjunction with the Directorate Business Manager"
     personality: ""
     goals: ""
-    skills: ""
+    skills: "Educated to degree level in business and data analysis. Excellent IT skills in a range of data information systems - primarily Microsoft Office packages such as Excel, Word & Access. Excellent administrative and organisational skills, experience in statistical analysis and data manipulation and report writing, and experience of customer service."
     quote: "This is a summary quote that defines how they see things"
     
   - title: ""
