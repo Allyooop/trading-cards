@@ -3,13 +3,12 @@
   background-color: #fff;
   border: 0px;
   border-radius: 0px;
-  border-top: 15px solid #d7d7d7;
   border-bottom: 1px solid #F0EFEF;
   
 }
 
 .well-primary {
   
-  border-color: $brand-primary;
+  border-top: 15px solid $brand-primary;
   
 }
