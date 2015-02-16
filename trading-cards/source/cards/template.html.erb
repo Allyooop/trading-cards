@@ -21,9 +21,20 @@
       </div>
     </div>
     
-    <div class="col-sm-8 col-xs-6">
+    <div class="col-sm-4 col-xs-6">
       <div class="well">
-        <p></p>
+        <ul class="list-unstyled">
+          <li><strong>Name:</strong> <%= persona['name'] %></li>
+          <li><strong>Age:</strong> <%= persona['age'] %></li>
+          <li><strong>Sex:</strong> <%= persona['sex'] %></li>
+          <li><strong>Job title:</strong> <%= persona['job-title'] %></li>
+        </ul>
+      </div>
+    </div>
+    
+    <div class="col-sm-4 col-xs-12">
+      <div class="well well-primary">
+        <p class="lead">"<%= persona['quote'] %>"</p>
       </div>
     </div>
     

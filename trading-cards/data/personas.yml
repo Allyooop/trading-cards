@@ -10,7 +10,7 @@ persona:
     personality: ""
     goals: ""
     skills: ""
-    quote: ""
+    quote: "This is a summary quote that defines how they see things"
     
   - title: ""
     slug: ""
