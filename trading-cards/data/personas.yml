@@ -1,7 +1,7 @@
 persona:
   - title: "Internal Project Name"
     slug: example-persona
-    img: "http://placehold.it/300x300"
+    img: "http://placehold.it/320x320"
     name: "Ms E Xample"
     age: "25"
     sex: "Female"
