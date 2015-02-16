@@ -15,10 +15,10 @@ $gray-light:             #bbb;
 $gray-lighter:           lighten($gray-base, 93.5%); // #eee
 
 $brand-primary:         #FFC107;
-$brand-success:         saturate($brand-primary, 20%);
+$brand-success:         saturate($brand-primary, 80%);
 $brand-info:            desaturate($brand-primary, 20%);
-$brand-warning:         lighten($brand-primary, 15%);
-$brand-danger:          #1A98CC;
+$brand-warning:         #1A98CC;
+$brand-danger:          darken($brand-warning, 15%);
 
 
 //== Scaffolding
