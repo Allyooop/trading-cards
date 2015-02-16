@@ -47,10 +47,12 @@
 #   end
 # end
 
+data.personas.persona.each do |persona|
+  proxy "/cards/#{persona.slug}.html", "/cards/template.html", :locals => { :persona => persona }, :ignore => true
+end
+
 set :css_dir, 'stylesheets'
-
 set :js_dir, 'javascripts'
-
 set :images_dir, 'images'
 
 # Build-specific configuration

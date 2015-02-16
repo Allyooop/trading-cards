@@ -21,12 +21,14 @@ $brand-info:            #007072;
 $brand-warning:         #FEF343;
 $brand-danger:          #FA7913;
 
+$brand-white:           #F7F4EF;
+
 //== Scaffolding
 //
 //## Settings for some of the most global styles.
 
 //** Background color for `<body>`.
-$body-bg:               #F7F4EF;
+$body-bg:               $brand-white;
 //** Global text color on `<body>`.
 $text-color:            $gray;
 
