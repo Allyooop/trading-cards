@@ -7,10 +7,11 @@ persona:
     sex: "Female"
     job-title: "Example Consultant Persona"
     job-desc: "Provides analytical, business intelligence and technical support to the Directorate Business Team, assisting in the provision of information and the maintenance of databases and standard reports, including follow up of any marketing opportunities in conjunction with the Directorate Business Manager"
-    personality: ""
-    goals: ""
+    personality: "Ms E Xample is a hardworking, chatty team member who has recently joined the Trust from a Masters course at the local University. E is a fan of Disney files - still! - and recently has been obsessing about Frozen. She is often found responding to an active iphone, buzzing away throughout the day."
+    goals: "Ms E Xample's main targets are to provide regular statistical"
     skills: "Educated to degree level in business and data analysis. Excellent IT skills in a range of data information systems - primarily Microsoft Office packages such as Excel, Word & Access. Excellent administrative and organisational skills, experience in statistical analysis and data manipulation and report writing, and experience of customer service."
     quote: "This is a summary quote that defines how they see things"
+    notes: "E's workstation is a Windows 7 PC and she is well adversed to SQL and Microsoft products. Her browser is IE8."
     
   - title: ""
     slug: ""
