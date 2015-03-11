@@ -129,7 +129,7 @@ wireframe alternative view pages?
 
 ## Colour Scheme
 
-Feel free to change. I like it. I've never build something with pink before so this was my excuse.
+Feel free to change. I like it. I've never built something with pink before so this was my excuse.
 
 Pink: ```#D42F73```
 Purple: ```#B1219A```
