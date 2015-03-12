@@ -6,14 +6,23 @@ title: Personas - Trading Cards
   <div class="container">
     <div class="row">
       <div class="col-md-12">
-           <h1>"Lorem ipsum dolor sit amet, consectetuer adipiscing elit</h1>
+           <h1>Available Cards</h1>
       </div>
     </div>
   </div>
 </section>
 
-<% data.personas.persona.each do |p| %>
-
-  <p><%= p.title %></p>
-
-<% end %>
+<section>
+  <div class="container">
+    <div class="row">
+      <% data.personas.persona.each do |p| %>
+      <div class="col-md-3 col-sm-3 col-xs-12">
+        <div class="well">
+          <%= image_tag p.img, class: "img-responsive" %>
+          <h2><%= p.title %></h2>
+        </div>
+      </div>
+      <% end %>
+    </div>
+  </div>
+</section>
