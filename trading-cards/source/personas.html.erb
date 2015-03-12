@@ -19,7 +19,12 @@ title: Personas - Trading Cards
       <div class="col-md-3 col-sm-3 col-xs-12">
         <div class="well">
           <%= image_tag p.img, class: "img-responsive" %>
-          <h2><%= p.title %></h2>
+          <h2 class="card-heading"><%= p.title %></h2>
+          
+          <p><%= p.quote %></p>
+          
+          <%= link_to "Full Persona", p.slug + ".html" %>
+         
         </div>
       </div>
       <% end %>
