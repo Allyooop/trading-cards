@@ -1,21 +1,21 @@
 persona:
-  - title: "Analytical Business Manager Example"
-    slug: example-persona
+  - title: "Business Customer"
+    slug: business-customer
     img: "http://placehold.it/320x320"
-    name: "Ms E Xample"
+    name: "Essa Jones"
     age: "25"
     sex: "Female"
     job-title: "Analytical Business Manager"
     job-desc: "Provides analytical, business intelligence and technical support to the Directorate Business Team, assisting in the provision of information and the maintenance of databases and standard reports, including follow up of any marketing opportunities in conjunction with the Directorate Business Manager"
-    personality: "Ms E Xample is a hardworking, chatty team member who has recently joined the Trust from a Masters course at the local University. E is a fan of Disney files - still! - and recently has been obsessing about Frozen. She is often found responding to an active iphone, buzzing away throughout the day."
-    goals: "Ms E Xample's main targets are to provide regular statistical support to the board of directors. E supports the day to day running of the trust by indicating the blockages, pipeline issues and restrictions in patient care and allows the board and medical directorates to identifies problems before they become critical. E's main goals are to ensure that projects she provides statistical support to can access her findings, quickly and easily."
+    personality: "Essa is a hardworking, chatty team member who has recently joined the Trust from a Masters course at the local University. E is a fan of Disney files - still! - and recently has been obsessing about Frozen. She is often found responding to an active iphone, buzzing away throughout the day."
+    goals: "Essa's main targets are to provide regular statistical support to the board of directors. Essa supports the day to day running of the trust by indicating the blockages, pipeline issues and restrictions in patient care and allows the board and medical directorates to identifies problems before they become critical. Essa's main goals are to ensure that projects she provides statistical support to can access her findings, quickly and easily."
     skills: "Educated to degree level in business and data analysis. Excellent IT skills in a range of data information systems - primarily Microsoft Office packages such as Excel, Word & Access. Excellent administrative and organisational skills, experience in statistical analysis and data manipulation and report writing, and experience of customer service."
-    quote: "This is a summary quote that defines how they see things"
-    notes: "E's workstation is a Windows 7 PC and she is well adversed to SQL and Microsoft products. Her browser is IE8."
+    quote: "Business insight is just a query away"
+    notes: "Essa's workstation is a Windows 7 PC and she is well adversed to SQL and Microsoft products. Her browser is IE8."
     
-  - title: ""
-    slug: ""
-    img: ""
+  - title: "Internal Customer"
+    slug: internal-customer
+    img: "http://placehold.it/320x320"
     name: ""
     age: ""
     sex: ""
